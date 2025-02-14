@@ -1,0 +1,20 @@
+*{
+font-family: 'Courier New', Courier, monospace;
+text-decoration: none;
+font-weight: 700;
+}
+h1{
+    text-align: center;
+}
+div{
+    background-color: greenyellow;
+    width:100%;
+    display:flex;
+   font-size: large;
+   justify-content: space-around;
+   height: 50px;
+   border-radius: 10px;
+}
+.eat{
+    font-weight: 900;
+}
